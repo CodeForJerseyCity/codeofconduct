@@ -5,7 +5,7 @@ codeofconduct
 
 The Code for America community expects that Code for America network activities, events, and digital forums:
 
-1. Are a safe and respectful environment for all participants.
+1. Are a safe and respectful environment for all participants
 2. Are a place where people are free to fully express their identities.
 3. Presume the value of others. Everyone’s ideas, skills, and contributions have value.
 4. Don’t assume everyone has the same context, and encourage questions.
